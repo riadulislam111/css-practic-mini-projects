@@ -1,0 +1,14 @@
+.profile-card{
+    background: linear-gradient(45deg, rgb(216, 170, 170), rgba(43, 241, 175, 0.185));
+    width: 350px;
+    border: 2px solid aqua;
+    border-radius: 5px;
+    padding: 10px;
+    margin: auto;
+}
+.btn{
+    background-color: rgb(139, 240, 24);
+    text-align: center;
+    text-decoration: dashed;
+    
+}
