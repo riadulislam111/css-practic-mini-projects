@@ -1,88 +1,79 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #fff8f0;
-    margin: 0;
-    padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #fff8f0;
+  margin: 0;
+  padding: 20px;
 }
 
-.profile-card{
-    background: linear-gradient(45deg, rgb(216, 170, 170), rgba(43, 241, 175, 0.185));
-    width: 350px;
-    border: 2px solid aqua;
-    border-radius: 5px;
-    padding: 10px;
-    margin: 20px auto;
+.profile-card {
+  background: linear-gradient(
+    45deg,
+    rgb(216, 170, 170),
+    rgba(43, 241, 175, 0.185)
+  );
+  width: 350px;
+  border: 2px solid aqua;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px auto;
 }
 
-.btn{
-    background-color: rgb(139, 240, 24);
-    text-align: center;
-    text-decoration: dashed;
+.btn {
+  background-color: rgb(139, 240, 24);
+  text-align: center;
+  text-decoration: dashed;
 }
 
-.restaurant-menu{
-    width: 400px;
-    margin: 30px auto;
-    padding: 20px;
-    background-color: #fff;
-    border: 3px solid #333;
-    border-radius: 12px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+.restaurant-menu {
+  width: 400px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 3px solid #333;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-
-
-.restaurant-menu h1{
-    text-align: center;
-    color: #b00020;
-    margin-top: 0;
-    margin-bottom: 20px;
+.restaurant-menu h1 {
+  text-align: center;
+  color: #b00020;
+  margin-top: 0;
+  margin-bottom: 20px;
 }
 
-.menu-item{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 10px 0;
-    border: 2px solid #ddd;
-    border-radius: 8px;
-    padding-left: 5px;
-    padding-right: 5px;
+.menu-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
-.menu-item h2{
-    font-size: 1.2rem;
+.menu-item h2 {
+  font-size: 1.2rem;
 }
 
-.menu-item span{
-    font-weight: bold;
-    font-size: 1rem;
+.menu-item span {
+  font-weight: bold;
+  font-size: 1rem;
 }
-.pizza{
-    background-color: #ffe6e6;
-    color: #8b0000;
+.pizza {
+  background-color: #ffe6e6;
+  color: #8b0000;
 }
-.burger{
-background-color: #e6f4ff;
-color: #0b5fa5;
+.burger {
+  background-color: #e6f4ff;
+  color: #0b5fa5;
 }
-.coke{
-background-color: #fff4cc;
-color: #8a5a00;
+.coke {
+  background-color: #fff4cc;
+  color: #8a5a00;
 }
-hr{
-    border: 2;
-    border-radius: 2px solid #ccc;
-    margin: 8px 0;
-}
-/* 
-
-
-
-
-
 hr {
-    border: 0;
-    border-top: 2px solid #ccc;
-    margin: 8px 0;
-} */
+  border: 2;
+  border-radius: 2px solid #ccc;
+  margin: 8px 0;
+}
